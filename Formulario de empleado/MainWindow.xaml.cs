@@ -20,9 +20,18 @@ namespace Formulario_de_empleado
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<Empleado> empleados = new List<Empleado>();
         public MainWindow()
         {
             InitializeComponent();
+            dgEmpleados.ItemsSource = empleados;
         }
+    }
+    public class Empleado
+    {
+        public string Nombre { get; set; }
+        public string Apellidos { get; set; }
+        public string Email { get; set; }
+        public int Teléfono { get; set; }
     }
 }

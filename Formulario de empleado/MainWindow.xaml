@@ -5,8 +5,47 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Formulario_de_empleado"
         mc:Ignorable="d"
-        Title="MainWindow" Height="900" Width="800">
+        Title="MainWindow" Height="1000" Width="800"
+        ResizeMode="CanResizeWithGrip">
     <Grid>
-        
+        <Label Content="Nombre*" HorizontalAlignment="Left" Margin="59,75,0,0" VerticalAlignment="Top"/>
+        <Label HorizontalAlignment="Center" Content="Introducción de Datos de Empleados" Margin="0,25,0,0" VerticalAlignment="Top" FontSize="25"/>
+        <Label Content="Apellidos*" HorizontalAlignment="Left" Margin="59,106,0,0" VerticalAlignment="Top"/>
+        <Label Content="E-mail*" HorizontalAlignment="Left" Margin="59,137,0,0" VerticalAlignment="Top"/>
+        <Label Content="Teléfono*" HorizontalAlignment="Left" Margin="59,168,0,0" VerticalAlignment="Top"/>
+        <Label Content="Fecha de nacimiento" HorizontalAlignment="Left" Margin="59,199,0,0" VerticalAlignment="Top"/>
+        <Label Content="DNI" HorizontalAlignment="Left" Margin="59,230,0,0" VerticalAlignment="Top"/>
+        <Label Content="Adjuntar fotografía" HorizontalAlignment="Left" Margin="59,290,0,0" VerticalAlignment="Top"/>
+        <Label Content="Domicilio" HorizontalAlignment="Left" Margin="59,370,0,0" VerticalAlignment="Top"/>
+        <Button Content="Cargar Foto" HorizontalAlignment="Left" Margin="190,281,0,0" VerticalAlignment="Top" Width="102" Height="45"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="138,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="138,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="138,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="138,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="108,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273"/>
+        <DatePicker HorizontalAlignment="Left" Margin="183,201,0,0" VerticalAlignment="Top" Width="228"/>
+        <TextBox Name="direccion" HorizontalAlignment="Left" Height="23" Margin="152,373,0,0" TextWrapping="Wrap" Text="Dirección" VerticalAlignment="Top" Width="259"/>
+        <TextBox Name="ciudad" HorizontalAlignment="Left" Height="23" Margin="152,401,0,0" TextWrapping="Wrap" Text="Ciudad" VerticalAlignment="Top" Width="259"/>
+        <TextBox Name="provincia" HorizontalAlignment="Left" Height="23" Margin="152,429,0,0" TextWrapping="Wrap" Text="Provincia" VerticalAlignment="Top" Width="259"/>
+        <TextBox Name="cp" HorizontalAlignment="Left" Height="23" Margin="152,457,0,0" TextWrapping="Wrap" Text="Código Postal" VerticalAlignment="Top" Width="259"/>
+        <TextBox Name="pais" HorizontalAlignment="Left" Height="23" Margin="152,485,0,0" TextWrapping="Wrap" Text="País" VerticalAlignment="Top" Width="259"/>
+        <Label Content="Enlace a red social" HorizontalAlignment="Left" Margin="59,544,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="183,547,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="550"/>
+        <Label Content="Rol actual" HorizontalAlignment="Left" Margin="59,575,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="183,579,0,0" VerticalAlignment="Top" Width="228">
+            <ComboBoxItem>
+                <TextBlock>Desarrollador</TextBlock>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <TextBlock>Analista</TextBlock>
+            </ComboBoxItem>
+        </ComboBox>
+        <Label Content="Descripción del puesto de trabajo actual:" HorizontalAlignment="Left" Margin="59,625,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="77" Margin="59,656,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="674"/>
+        <Button Content="Cancelar" HorizontalAlignment="Left" Margin="424,738,0,0" VerticalAlignment="Top" Width="74" Height="36"/>
+        <Button Content="Guardar" HorizontalAlignment="Left" Margin="290,738,0,0" VerticalAlignment="Top" Width="76" Height="36"/>
+        <DataGrid Name="dgEmpleados" HorizontalAlignment="Left" Height="132" Margin="59,800,0,0" VerticalAlignment="Top" Width="674" MaxColumnWidth="165" MinColumnWidth="165"/>
+        <Image HorizontalAlignment="Left" Height="150" Margin="583,392,0,0" VerticalAlignment="Top" Width="150" Source="/images/logo.jpg"/>
+
     </Grid>
 </Window>
