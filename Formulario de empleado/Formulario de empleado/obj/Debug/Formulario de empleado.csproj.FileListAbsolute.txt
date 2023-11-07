@@ -1,0 +1,30 @@
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\bin\Debug\Formulario de empleado.exe.config
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\bin\Debug\Formulario de empleado.exe
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\bin\Debug\Formulario de empleado.pdb
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.csproj.AssemblyReference.cache
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\MainWindow.g.cs
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\App.g.cs
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado_MarkupCompile.cache
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado_MarkupCompile.lref
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\MainWindow.baml
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.g.resources
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario_de_empleado.Properties.Resources.resources
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.csproj.GenerateResource.cache
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.csproj.CoreCompileInputs.cache
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.exe
+C:\Users\alumMA\source\repos\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.pdb
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\bin\Debug\Formulario de empleado.exe.config
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\bin\Debug\Formulario de empleado.exe
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\bin\Debug\Formulario de empleado.pdb
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\App.g.cs
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado_MarkupCompile.cache
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado_MarkupCompile.lref
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\MainWindow.baml
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.g.resources
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario_de_empleado.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.exe
+C:\Users\ruben\OneDrive\Desktop\Formulario de empleado\Formulario de empleado\obj\Debug\Formulario de empleado.pdb
