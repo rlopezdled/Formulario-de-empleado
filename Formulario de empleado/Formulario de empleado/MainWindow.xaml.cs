@@ -126,6 +126,7 @@ namespace Formulario_de_empleado
             {
                 Empleado empleado = new Empleado() { Nombre = nombre.Text, Apellidos = apellidos.Text, Email = mail.Text, Telefono = telefono.Text };
                 empleados.Add(empleado);
+                dgEmpleados.ItemsSource = null;
                 dgEmpleados.ItemsSource = empleados;
             }
 
